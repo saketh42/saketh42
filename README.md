@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Saketh!<br><br>I'm a student developer from Amrita Vishwa Vidyapeetham, currently pursuing a B.Tech in Computer Science and Engineering (CSE). I have experience with the MERN stack and am always excited to learn new technologies.<br><br>🌱 Currently Learning: Diving into Next.js and exploring new tools and frameworks!<br><br>🚀 Tech Stack:<br><br>MERN (MongoDB, Express.js, React, Node.js)<br><br>💻 Current Project: Building a web app using Next.js.<br><br>🔍 Always Learning: Constantly exploring new tech and improving my skills.<br><br>Feel free to check out my projects and connect!<br><br>
 
+[![An image of @saketh42's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saketh42)](https://holopin.io/@saketh42)
+<br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/698528721560141875) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saketh-pai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HeckmannX) 
