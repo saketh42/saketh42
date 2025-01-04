@@ -62,18 +62,24 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=saketh42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
 <br>
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saketh42&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketh42&theme=nightowl&hide_border=false" alt="AAL1X streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saketh42&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
+<table align="center" style="border: transparent">
+  <tr>
+    <td width="50%" align="center" style="border: transparent">
+        <img src="https://github-readme-stats.vercel.app/api?username=saketh42&theme=nightowl&show_icons=true&count_private=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketh42&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+    </td>
+    <td width="50%" align="center" style="border: transparent">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saketh42&theme=nightowl&hide_border=false&langs_count=10"/>
+    </td>
+  </tr>
 </table>
 </p>
 <br>
@@ -89,8 +95,10 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saketh42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###### Quote of The day
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
